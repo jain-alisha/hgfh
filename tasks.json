@@ -1,0 +1,221 @@
+{
+  "elementary": [
+    {
+      "id": "elem1",
+      "title": "Number Breaking",
+      "description": "Take the number 25 and break it into as many pieces as you like! What is the biggest product you can make when combining the pieces?",
+      "extension": "Try with different numbers. Can you find a pattern?",
+      "difficulty": "elementary"
+    },
+    {
+      "id": "elem2",
+      "title": "Color Pattern Challenge",
+      "description": "Using only red, blue, and yellow blocks, create a pattern where no two same colors touch (not even at corners). How big can you make your pattern?",
+      "extension": "What if you add green? Can you still make it work? What's the smallest number of colors needed for any size grid?",
+      "difficulty": "elementary",
+      "notes": ""
+    },
+    {
+      "id": "elem3",
+      "title": "The Jumping Game",
+      "description": "Start at number 1. You can jump forward 1 or 2 numbers at a time. How many different ways can you reach number 5?",
+      "extension": "What about reaching number 6? Can you find a pattern for any number?",
+      "difficulty": "elementary"
+    },
+    {
+      "id": "elem4",
+      "title": "Pizza Slice Puzzle",
+      "description": "If you make 4 straight cuts through a pizza, what's the maximum number of pieces you can create? Draw your solution!",
+      "extension": "What if you made 5 cuts? Can you find a pattern?",
+      "difficulty": "elementary"
+    },
+    {
+      "id": "elem5",
+      "title": "Magic Square Mini",
+      "description": "Fill in a 3x3 grid with the numbers 1-9 so that every row, column, and diagonal adds up to the same number. Start with 5 in the middle!",
+      "extension": "What happens if you rotate your solution? Is it still magic?",
+      "difficulty": "elementary"
+    },
+    {
+      "id": "elem6",
+      "title": "Perimeter Exploration",
+      "description": "Using 12 toothpicks (or drawing 12 unit lines), make as many different shapes as you can. Which shape has the biggest area?",
+      "extension": "Can you make a shape with holes in it? How does this affect the area?",
+      "difficulty": "elementary"
+    },
+    {
+      "id": "elem7",
+      "title": "Number Neighbors",
+      "description": "Place the numbers 1-8 in a circle so that no two consecutive numbers are next to each other. For example, 1 can't be next to 2, 2 can't be next to 3, and so on.",
+      "extension": "Is there more than one solution? How many can you find?",
+      "difficulty": "elementary"
+    },
+    {
+      "id": "elem8",
+      "title": "Fraction Art",
+      "description": "Draw a big square and divide it into different fractions using colors. Can you make a beautiful pattern where all pieces are either 1/2, 1/4, or 1/8 of the square?",
+      "extension": "Can you make your fractions add up to exactly 1? Try using different fraction combinations!",
+      "difficulty": "elementary"
+    },
+    {
+      "id": "ele9",
+      "title": "e",
+      "description": "e\ne",
+      "extension": "ee",
+      "difficulty": "elementary",
+      "teacher_submitted": true
+    },
+    {
+      "id": "ele10",
+      "title": "e",
+      "description": "2e",
+      "extension": "3e",
+      "difficulty": "elementary",
+      "teacher_submitted": true
+    }
+  ],
+  "middle": [
+    {
+      "id": "mid1",
+      "title": "The Strawberry Pudding Problem",
+      "description": "A census-taker comes to a family's house one night to collect data. The father, says, \"I have three daughters. The product of their three ages is 72. The sum of their ages is our house number.\" When the census-taker goes outside to look at the house number, he comes back and says, \"I need you to give me another clue.\" And the father says, \"Oh, okay, my oldest likes strawberry pudding.\" What are the ages of each of the daughters?",
+      "extension": "Try creating your own age puzzle with different numbers. What makes a good puzzle that has only one solution?",
+      "difficulty": "middle"
+    },
+    {
+      "id": "mid2",
+      "title": "Number Breaking",
+      "description": "Take the number 25 and break it into as many pieces as you like! What is the biggest product you can make when combining the pieces?",
+      "extension": "Try with different numbers. Can you find a pattern?",
+      "difficulty": "middle"
+    },
+    {
+      "id": "mid3",
+      "title": "Dice Duel",
+      "description": "You and your friend are playing a dice game. You get to pick a sum to bet on. If it is the sum of the two dice, you win. If you roll two dice, which sum would you choose? Play the game with a partner and keep track of your wins. Then try to prove mathematically why one number is better!",
+      "extension": "Design your own dice game where players have to think about probability to win. Test it with your friends!",
+      "difficulty": "middle"
+    },
+    {
+      "id": "mid4",
+      "title": "The Locker Problem",
+      "description": "In a school with 100 lockers, all lockers start closed. The first student opens every locker. The second student closes every 2nd locker. The third student changes every 3rd locker (if open, closes it; if closed, opens it). This continues until 100 students have gone through. Which lockers end up open?",
+      "extension": "Can you explain why these particular lockers are open? What's special about their numbers?",
+      "difficulty": "middle"
+    },
+    {
+      "id": "mid5",
+      "title": "Handshake Mystery",
+      "description": "At a party, everyone shakes hands with everyone else exactly once. If there were 45 total handshakes, how many people were at the party?",
+      "extension": "Can you find a formula for any number of handshakes? Why does this work?",
+      "difficulty": "middle"
+    },
+    {
+      "id": "mid6",
+      "title": "Square Color Counting",
+      "description": "On an 8x8 chessboard, what fraction of the squares can a bishop reach from a given starting position? Try different starting positions!",
+      "extension": "What about a knight instead of a bishop? Can you find positions where they reach the same number of squares?",
+      "difficulty": "middle"
+    },
+    {
+      "id": "mid7",
+      "title": "Water Jug Challenge",
+      "description": "You have a 3-liter jug and a 5-liter jug. How can you measure exactly 4 liters of water? You can fill, empty, and pour between jugs.",
+      "extension": "What other volumes can you measure? Is there a pattern to which volumes are possible?",
+      "difficulty": "middle"
+    },
+    {
+      "id": "mid8",
+      "title": "Growing Pattern",
+      "description": "Look at this sequence: 2, 6, 12, 20, 30, ... Each number is formed by adding a different amount each time. What's the pattern? What's the 10th number?",
+      "extension": "Can you write an equation for the nth number in the sequence?",
+      "difficulty": "middle"
+    },
+    {
+      "id": "mid9",
+      "title": "The Scale Balance",
+      "description": "Using weights of 1, 2, 4, and 8 units, how many different weights can you measure on a balance scale? You can put weights on both sides!",
+      "extension": "What's the largest weight you can measure? Are there any weights you can't measure?",
+      "difficulty": "middle"
+    },
+    {
+      "id": "mid10",
+      "title": "Clock Angles",
+      "description": "At what times between 3:00 and 4:00 do the hour and minute hands form a right angle? Find all solutions!",
+      "extension": "Can you write an equation to find the angle between the hands at any time?",
+      "difficulty": "middle"
+    }
+  ],
+  "high": [
+    {
+      "id": "high1",
+      "title": "Number Breaking",
+      "description": "Take the number 25 and break it into as many pieces as you like! What is the biggest product you can make when combining the pieces?",
+      "extension": "This is a great introduction to e! Try larger numbers and see if you notice how the maximum product relates to e. What happens as you approach infinity?",
+      "difficulty": "high"
+    },
+    {
+      "id": "high2",
+      "title": "Advanced Dice Probability",
+      "description": "When rolling two dice, analyze the probability of each possible sum (2-12). Create a probability distribution and explain why some sums are more likely than others. Then, calculate the expected value of a game where you win $x if you roll sum x.",
+      "extension": "How would the probabilities change with different types of dice (4-sided, 8-sided, etc.)? What amount would you have to pay to make the game fair?",
+      "difficulty": "high"
+    },
+    {
+      "id": "high3",
+      "title": "Fibonacci Squares",
+      "description": "Draw squares with sides of length 1, 1, 2, 3, 5, 8, ... (Fibonacci numbers). Arrange them in a spiral. What beautiful pattern emerges when you connect the corners with a curve?",
+      "extension": "Can you prove that this curve approaches a perfect spiral? What's the ratio of each turn's size?",
+      "difficulty": "high"
+    },
+    {
+      "id": "high4",
+      "title": "Triangle Center Mystery",
+      "description": "In any triangle, the centroid (where medians meet), orthocenter (where altitudes meet), and circumcenter (where perpendicular bisectors meet) are always collinear. Prove this! The line is called Euler's line.",
+      "extension": "Can you find the ratios of the distances between these points? What happens in special triangles?",
+      "difficulty": "high"
+    },
+    {
+      "id": "high5",
+      "title": "Polynomial Patterns",
+      "description": "Find a polynomial that takes value 1 at x=1, value 2 at x=2, value 4 at x=3, and value 7 at x=4. What degree polynomial do you need?",
+      "extension": "Can you find a pattern for the next few values? What would your polynomial predict for x=5?",
+      "difficulty": "high"
+    },
+    {
+      "id": "high6",
+      "title": "Infinite Hotel",
+      "description": "A hotel has infinitely many rooms, numbered 1, 2, 3, ... and all rooms are full. How can you make room for one new guest? What about infinitely many new guests?",
+      "extension": "What if infinitely many buses arrive, each with infinitely many guests? Can you still find rooms for everyone?",
+      "difficulty": "high"
+    },
+    {
+      "id": "high7",
+      "title": "Circle Packing",
+      "description": "In a 2x2 square, what's the maximum number of circles of radius 0.4 you can fit without overlapping? Prove your answer is optimal!",
+      "extension": "What if the circles can have different sizes? Can you fit more total area this way?",
+      "difficulty": "high"
+    },
+    {
+      "id": "high8",
+      "title": "Recursive Sequence",
+      "description": "Consider the sequence where each term is the sum of the reciprocals of all previous terms, starting with a₁=1. Find a₂, a₃, and a₄. What happens to this sequence?",
+      "extension": "Can you prove whether this sequence converges or diverges? What about similar sequences?",
+      "difficulty": "high"
+    },
+    {
+      "id": "high9",
+      "title": "Color Map Theorem",
+      "description": "The four-color theorem states that any map can be colored with just 4 colors so no adjacent regions share a color. Try to find a map that needs exactly 4 colors, then try to prove no map needs 5!",
+      "extension": "What about maps on different surfaces? How many colors do you need on a torus (donut shape)?",
+      "difficulty": "high"
+    },
+    {
+      "id": "high10",
+      "title": "Random Walk Analysis",
+      "description": "A drunk person takes random steps (left or right with equal probability) on a number line starting at 0. What's the probability they'll return to 0 after 2n steps?",
+      "extension": "What's the expected number of steps before they first return to 0? What about a 2D random walk?",
+      "difficulty": "high"
+    }
+  ]
+}
